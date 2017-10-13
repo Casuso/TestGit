@@ -1,3 +1,5 @@
 Change 1 to the file.
 
 Change 2 to the file.
+
+Change 3 to the file in the master branch.
